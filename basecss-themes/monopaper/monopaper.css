@@ -1,0 +1,40 @@
+/*
+base.css monopaper theme
+Made by Diacius on GitHub
+Licensed under MPL 2.0
+*/
+
+
+/* Load a non-default font from Google Fonts change this for the font of your choice */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400;600;700;800&display=swap');
+p {
+  margin: 1rem 0;
+}
+body {
+  font-family: "Inter";
+  font-size: 1.5em;
+  display: grid;
+  justify-content: center;
+  background: #222;
+  margin: 0;
+  padding: 0;
+}
+main {
+  padding: 2rem 2rem 0.5rem;
+  margin: 2rem;
+  min-height: calc(100vh - 9rem);
+  background: #fff;
+  border-left: 5px #a0f0f0 solid;
+  border-right: 5px #f0a0a0 solid;
+  border-bottom: 5px #a0f0a0 solid;
+  border-top: 5px #a0f0a0 solid;
+  max-width: 60vw;
+  min-width: 10vw;
+}
+a {
+  font-weight: 600;
+  text-decoration-height: 10px;
+}
+.promo {
+  font-size: 0.75rem;
+}
