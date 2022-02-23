@@ -3,9 +3,6 @@ base.css monopaper theme
 Made by Diacius on GitHub
 Licensed under MPL 2.0
 */
-
-
-/* Load a non-default font from Google Fonts change this for the font of your choice */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400;600;700;800&display=swap');
 p {
   margin: 1rem 0;
