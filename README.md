@@ -5,3 +5,17 @@ base.css is designed to be as small and easy to modify, but share any changes yo
 If you want something that styles the page more - try [themes](https://github.com/Diacius/base.css/tree/main/basecss-themes).
 
 Yes, it's probably yet another CSS reset, but I wanted to do things differently :D
+
+## Expected HTML
+To make the page appear properly, structure your HTML like this
+```html
+<html>
+<!-- Other tags -->
+  <body>
+    <main>
+      <!-- Page content -->
+    </main>
+  </body>
+</html>
+```
+I recommend you use the `html:5` boilerplate in Emmet (which is in VSCode and Atom)
