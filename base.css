@@ -25,6 +25,7 @@ main {
 a, a:visited, a:hover {
   font-weight: 600;
   text-decoration-height: 10px;
+  color: inherit;
 }
 .promo {
   font-size: 0.75rem;
