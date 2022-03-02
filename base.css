@@ -22,7 +22,7 @@ main {
   max-width: 60vw;
   min-width: 10vw;
 }
-a {
+a, a:visited, a:hover {
   font-weight: 600;
   text-decoration-height: 10px;
 }
