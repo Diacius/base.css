@@ -7,15 +7,13 @@ Licensed under MPL 2.0
 p {
   margin: 1rem 0;
 }
-#body-container {
-  display: grid;
-  justify-content: center;
-}
 body {
   font-family: "Inter";
   font-size: 1.5em;
   margin: 0;
   padding: 0;
+  display: grid;
+  justify-content: center;  
 }
 main {
   padding: 2rem 2rem 0.5rem;
