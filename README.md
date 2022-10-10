@@ -6,6 +6,8 @@ If you want something that styles the page more - try [themes](https://github.co
 
 Yes, it's probably yet another CSS reset, but I wanted to do things differently :D
 
+An example of how to use it is [my website](https://www.ginger-ninja.uk)
+
 ## IMPORTANT!! Expected HTML
 **To make the page appear properly, structure your HTML like this**!
 ```html
